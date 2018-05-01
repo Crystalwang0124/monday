@@ -1,0 +1,33 @@
+p{
+    color: blue;
+    background-color: pink;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+.yellow{
+    background: yellow;
+
+}
+
+.blue{
+    background: blue;
+    color:white;
+}
+ul{
+    background: plum;
+}
+ol{
+    background: powderblue;
+}
+img{
+    /* width: 50%;
+    height: 80%; */
+    /*width:250px;*/
+    width: 5vh, 100vw
+    /* viewport height
+    viewport width */
+
+}
